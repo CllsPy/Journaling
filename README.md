@@ -249,3 +249,11 @@ When the function returns `self`, meaning the object itself, it indicates that w
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The-Transformer-model-architecture.png/640px-The-Transformer-model-architecture.png)
 
 - **[Hugging Face](https://huggingface.co/)** exists to solve the following dilemma: Training models from scratch or finding them in a framework different from the one you use can make the process stressful; Hugging Face simplifies this.
+
+## Day 17: Aug 27, 2024
+
+- **The encoder-decoder** architecture 
+- The **Attention** mechanism
+
+### References
+- [Encoder-Decoder Architecture: Overview](https://www.youtube.com/watch?v=671xny8iows)
