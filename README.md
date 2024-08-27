@@ -257,3 +257,4 @@ When the function returns `self`, meaning the object itself, it indicates that w
 
 ### References
 - [Encoder-Decoder Architecture: Overview](https://www.youtube.com/watch?v=671xny8iows)
+- [Encoder models](https://huggingface.co/learn/nlp-course/en/chapter1/5?fw=pt)
