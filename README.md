@@ -261,7 +261,7 @@ When the function returns `self`, meaning the object itself, it indicates that w
 - [Transformer models and BERT model: Overview](https://www.youtube.com/watch?v=t45S_MwAcOw)
 - [Attention Mechanism In a nutshell](https://www.youtube.com/watch?v=oMeIDqRguLY)
 
-## Day 17: Aug 27, 2024
+## Day 18: Aug 29, 2024
 
 - The **Self-Attention** mechanism
 - Hugging Face Pipelines
