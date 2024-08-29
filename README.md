@@ -273,5 +273,6 @@ When the function returns `self`, meaning the object itself, it indicates that w
   - Q&A
 
 - Create a water maker on a Jupyter Notebook:
+
 `%load_ext watermark`
 `%watermark -a "author" -u -d -p numpy, pandas`
