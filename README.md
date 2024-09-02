@@ -278,3 +278,7 @@ When the function returns `self`, meaning the object itself, it indicates that w
 %load_ext watermark
 %watermark -a "author" -u -d -p numpy, pandas
 ```
+
+## Day 19: Set 02, 2024
+
+- !wget -> to download archives from the internet
