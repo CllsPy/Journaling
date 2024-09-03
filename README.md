@@ -287,3 +287,13 @@ When the function returns `self`, meaning the object itself, it indicates that w
   - **Tokenizer**: tokenize data
   - **Transformers**: train/infer models
   - **Datasets**: evaluate
+
+## Day 20: Set 03, 2024
+
+- **map()** function
+- AutoTokenizer from Hugging Face
+- How load a dataset from Hugging Face Hub
+- Tokenization
+  - Word Tokenization
+  - Character Tokenization
+  - WordPiece Tokenization
