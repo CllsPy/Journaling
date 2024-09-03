@@ -281,4 +281,9 @@ When the function returns `self`, meaning the object itself, it indicates that w
 
 ## Day 19: Set 02, 2024
 
-- !wget -> to download archives from the internet
+- **`!wget`**: used to download files from the internet.
+- **HuggingFace Pipeline:**
+  - **Datasets**: load data
+  - **Tokenizer**: tokenize data
+  - **Transformers**: train/infer models
+  - **Datasets**: evaluate
