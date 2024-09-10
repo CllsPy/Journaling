@@ -297,3 +297,10 @@ When the function returns `self`, meaning the object itself, it indicates that w
   - Word Tokenization
   - Character Tokenization
   - WordPiece Tokenization
+
+## Day 21: Set 10, 2024
+
+Today I Learnet about `non-linear` transformations and how we can take `no-linear`data, linear:
+(xi, xii) -> (xi², xii²)
+
+I use Chatgpt for build an webapp to create today datasets, I like this ideia and pretend to improve, create feature to select models and plot decision boudaries.
