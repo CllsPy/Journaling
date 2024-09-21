@@ -313,3 +313,5 @@ I use Chatgpt for build an webapp to create today datasets, I like this ideia an
 - (2, 3) = (rows, columns)
 - (100, ) -> vector (1D)
 - (100, 1) -> column vector (2D)
+
+[Reshape -1, 1 and Reshape 1, -1 in Python NumPy | Module NumPy Tutorial - Part 07](https://www.youtube.com/watch?v=yDXNPyxDb0M)
