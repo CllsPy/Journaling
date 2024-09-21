@@ -308,4 +308,5 @@ I use Chatgpt for build an webapp to create today datasets, I like this ideia an
 
 ## Day 22: Sept 21, 2024
 
-The difference between `np.array([1, 2], (3, 4)]` and `np.array([[1,2], [3,4]])` is that in the first case, it raises and error, because np.array expect a single interable element (tuple, list).
+- The difference between `np.array([1, 2], (3, 4)]` and `np.array([[1,2], [3,4]])` is that in the first case, it raises and error, because np.array expect a single interable element (tuple, list).
+- x.reshape(-1), reorganize the array in such way that it preservs its dimenions. Let's say, if we have an array (3,2) we end with and array (6,)
