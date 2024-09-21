@@ -304,3 +304,8 @@ Today I Learnet about `non-linear` transformations and how we can take `no-linea
 (xi, xii) -> (xi², xii²)
 
 I use Chatgpt for build an webapp to create today datasets, I like this ideia and pretend to improve, create feature to select models and plot decision boudaries.
+
+
+## Day 22: Sept 21, 2024
+
+The difference between `np.array([1, 2], (3, 4)]` and `np.array([[1,2], [3,4]])` is that in the first case, it raises and error, because np.array expect a single interable element (tuple, list).
