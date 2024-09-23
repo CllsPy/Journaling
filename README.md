@@ -315,3 +315,14 @@ I use Chatgpt for build an webapp to create today datasets, I like this ideia an
 - (100, 1) -> column vector (2D)
 
 [Reshape -1, 1 and Reshape 1, -1 in Python NumPy | Module NumPy Tutorial - Part 07](https://www.youtube.com/watch?v=yDXNPyxDb0M)
+
+## Day 23: Sept 22, 2024
+
+- I'm reading [Handwritten Digit Recognition with a
+Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf)
+
+- Today I learned how to use the diffuse mode to solve problems and I solved a problem when I was trying to build a NN to [predict handwritting digits (MNIST dataset) using TF](https://www.kaggle.com/code/carloscll/on-understanding-keras-flatten).
+- I learned about the Learning Problem from the book "ML from data".
+
+  ### pandas
+- pd.concat for merge data.
