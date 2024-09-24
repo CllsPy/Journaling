@@ -330,3 +330,4 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
 ### References
 - [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [Handwritten Digit Recognition with a Back-Propagation Network ](https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf)
+- [Difference Between Partial and Total Derivative](https://www.youtube.com/watch?v=Kp7sSp5Kn7o)
