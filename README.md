@@ -1,9 +1,6 @@
 ---
 title: "Today I Learned"
 draft: false
-ShowToc: true
-date: 2024-04-01
-tags: ["books", "knowledge management"]
 author: Carlos L.
 ---
 
