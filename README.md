@@ -325,9 +325,8 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
 - pd.concat for merge data.
 
 ## Day 24: Sept 24, 2024
-
 - ∂C/∂w is the equation behide **backpropag**, It means how much C (loss function) changes when we change w and b.
 
-
-[How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
-[Handwritten Digit Recognition with a Back-Propagation Network ](https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf)
+### References
+- [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+- [Handwritten Digit Recognition with a Back-Propagation Network ](https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf)
