@@ -331,3 +331,13 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
 - [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [Handwritten Digit Recognition with a Back-Propagation Network ](https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf)
 - [Difference Between Partial and Total Derivative](https://www.youtube.com/watch?v=Kp7sSp5Kn7o)
+
+## 25: Sept 25, 2024
+
+- Today I build a prompt for summarize papers, so I learned some building blocks for that as:
+  - sugest report informations that the model don't understand (instead of make assumptios)
+  - List tasks
+
+ - I learned the notation for represente the a (activiation), w (eight) and b (bias) for a specific layer in a NN.
+   ![image](https://github.com/user-attachments/assets/a971657c-5c17-4dcc-b8e0-0296ffab2384)
+
