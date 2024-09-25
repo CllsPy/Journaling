@@ -339,5 +339,10 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
   - List tasks
 
  - I learned the notation for represente the a (activiation), w (eight) and b (bias) for a specific layer in a NN.
+   
    ![image](https://github.com/user-attachments/assets/a971657c-5c17-4dcc-b8e0-0296ffab2384)
+
+- I'm reading a book abour CS and some fundamental concepts, today I learned about the Von Neuman Arch
+  
+![image](https://github.com/user-attachments/assets/9c7f9b57-136e-4441-9d9f-836eda339be6)
 
