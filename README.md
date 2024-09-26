@@ -346,3 +346,10 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
   
 ![image](https://github.com/user-attachments/assets/9c7f9b57-136e-4441-9d9f-836eda339be6)
 
+## 26: Sept 26, 2024
+
+- I learned how to use [Optuna](https://optuna-org.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=sc) to find optimal parameters in ML models
+- Learned how to ensemble results from threee models and using k-fold
+  - xgb
+  - catboost
+  - lgbm 
