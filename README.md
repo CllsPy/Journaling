@@ -353,3 +353,11 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
   - xgb
   - catboost
   - lgbm 
+
+## 27: Sept 26, 2024
+
+- `np.choice` (random selection)
+- `np.sort` (organize)
+- `np.setdiff1d` (choice the difference between the lists)
+- OOB Sample concept (out-of-the-bag) for create a test set
+- Bootstrap sample
