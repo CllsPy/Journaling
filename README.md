@@ -365,7 +365,7 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
 ## 28: Sept 28, 2024
 
 - I learned how to draft a essay and how it's important to learn something new.
-- I learned eight new things about llm
+- I learned eight [new things](https://arxiv.org/abs/2304.00612) about llm
   1. LLMs predictably get more capable with increasing investment, even without targeted innovation.
   2. Many important LLM behaviors emerge unpredictably as a byproduct of increasing investment.
   3. LLMs often appear to learn and use representations of the outside world.
