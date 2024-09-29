@@ -384,7 +384,10 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
 - **ml**
 - ml paradigms
   - supervised learning
+  - cross-validation is a method to check model performance on real  unseen data
+    - it splits data in train set and val set, the average of val set is use to verify performance
 
 
 ** references**
   - [ml foundatitions](https://www.hlevkin.com/hlevkin/45MachineDeepLearning/ML/Foundations_of_Machine_Learning.pdf)
+- [cross-validation wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#cite_note-2)
