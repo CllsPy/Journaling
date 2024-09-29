@@ -374,3 +374,17 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
   6. Human performance on a task isn't an upper bound on LLM performance.
   7. LLMs need not express the values of their creators nor the values encoded in web text.
   8. Brief interactions with LLMs are often misleading.
+
+## 29: Sept 29, 24
+
+- paper/essay
+  - how to create a reading list
+    - how to take notes
+
+- ml
+- ml paradigms
+  - SL
+
+
+  references
+  - [ml foundatitions](https://www.hlevkin.com/hlevkin/45MachineDeepLearning/ML/Foundations_of_Machine_Learning.pdf)
