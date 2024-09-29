@@ -386,5 +386,5 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
   - supervised learning
 
 
-**  references**
+** references**
   - [ml foundatitions](https://www.hlevkin.com/hlevkin/45MachineDeepLearning/ML/Foundations_of_Machine_Learning.pdf)
