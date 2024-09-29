@@ -377,14 +377,14 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
 
 ## 29: Sept 29, 24
 
-- paper/essay
+- **paper/essay**
   - how to create a reading list
     - how to take notes
 
-- ml
+- **ml**
 - ml paradigms
-  - SL
+  - supervised learning
 
 
-  references
+**  references**
   - [ml foundatitions](https://www.hlevkin.com/hlevkin/45MachineDeepLearning/ML/Foundations_of_Machine_Learning.pdf)
