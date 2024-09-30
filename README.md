@@ -406,5 +406,6 @@ map_feature = {
   0: 'a'
   1: 'b'
 }
-```
+
 df.loc[:, 'colum'] = df.column.map(map_feature)
+```
