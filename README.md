@@ -391,3 +391,9 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
 **references**
   - [ml foundatitions](https://www.hlevkin.com/hlevkin/45MachineDeepLearning/ML/Foundations_of_Machine_Learning.pdf)
 - [cross-validation wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#cite_note-2)
+
+
+## 30: Sept 30, 24
+
+- there is a difference between **learning** and **design**
+  - **learning** use data,  for design not necessarily
