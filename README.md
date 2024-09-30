@@ -396,4 +396,15 @@ Back-Propagation Network](https://proceedings.neurips.cc/paper/1989/file/53c3bce
 ## 30: Sept 30, 24
 
 - there is a difference between **learning** and **design**
-  - **learning** use data,  for design not necessarily
+  - **learning** use data,  for design not necessarily]
+
+  - pandas
+    - map features
+
+```python
+map_feature = {
+  0: 'a'
+  1: 'b'
+}
+```
+df.loc[:, 'colum'] = df.column.map(map_feature)
