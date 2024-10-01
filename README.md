@@ -420,3 +420,9 @@ df.loc[:, 'colum'] = df.column.map(map_feature)
 - we can use cross-val for handle overfitting
   - hol-out set is a type of cv
   - each data needs a cv method (isn't global)
+
+references
+- https://thinkingneuron.com/how-to-test-ml-models-using-k-fold-cross-validation-in-python/
+- https://thinkingneuron.com/how-to-test-machine-learning-models-using-bootstrapping/
+
+
