@@ -415,3 +415,8 @@ df.loc[:, 'colum'] = df.column.map(map_feature)
 
 - train improve and val dicrease (overfitting)
 
+## 31: Oct 01, 24
+
+- we can use cross-val for handle overfitting
+  - hol-out set is a type of cv
+  - each data needs a cv method (isn't global)
