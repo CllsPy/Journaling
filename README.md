@@ -409,3 +409,9 @@ map_feature = {
 
 df.loc[:, 'colum'] = df.column.map(map_feature)
 ```
+
+- overffiting and uderfitting
+![image](https://github.com/user-attachments/assets/277f936c-9b28-4918-ba85-e600fd5829df)
+
+- train improve and val dicrease (overfitting)
+
