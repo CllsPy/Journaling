@@ -426,3 +426,8 @@ references
 - https://thinkingneuron.com/how-to-test-machine-learning-models-using-bootstrapping/
 
 
+## 32: Oct 02, 24
+
+- for select a inverval of cols witth pandas
+    - df.iloc[:, 1:3]
+    - df.loc[:, 'A', 'B']
