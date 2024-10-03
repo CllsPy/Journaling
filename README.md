@@ -435,3 +435,7 @@ references
  ## 33: Oct 03, 24
 
 - -1 use all available CPUs when you using cross-val.
+
+references
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.learning_curve.html
+- https://arxiv.org/pdf/1811.12808
