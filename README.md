@@ -439,3 +439,10 @@ references
 references
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.learning_curve.html
 - https://arxiv.org/pdf/1811.12808
+
+
+## 34, Oct 04 -2024
+
+- tensorflow
+  - how to create a model using keras.Sequential
+  - what's a layer: a filter for data (data go trought and get better)
