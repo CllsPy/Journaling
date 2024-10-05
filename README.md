@@ -453,7 +453,7 @@ references
 - tensor
   - a tensor is a multi-dimensional array
   - how to slice a tensor
-  - : represents all the axis
+  - [:] represents all the axis
   - a tensor has three thigs
     - ndim
     - shape
