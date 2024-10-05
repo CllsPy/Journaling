@@ -446,3 +446,15 @@ references
 - tensorflow
   - how to create a model using keras.Sequential
   - what's a layer: a filter for data (data go trought and get better)
+
+
+## 35, Oct 05 - 2024
+
+- tensor
+  - a tensor is a multi-dimensional array
+  - how to slice a tensor
+  - : represents all the axis
+  - a tensor has three thigs
+    - ndim
+    - shape
+    - dtype
