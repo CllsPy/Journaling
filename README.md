@@ -458,3 +458,10 @@ references
     - ndim
     - shape
     - dtype
+   
+
+## 36, Oct 05 - 2024
+
+- keras
+- keras.layers receive a matrix and outputs a matrix
+  - output = relu(dot(input, w) + b)
