@@ -465,3 +465,8 @@ references
 - keras
 - keras.layers receive a matrix and outputs a matrix
   - output = relu(dot(input, w) + b)
+
+## 37, Oct  07 - 2024
+
+- ensemble
+  - bagging
