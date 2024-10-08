@@ -449,7 +449,6 @@ references
 
 
 ## 35, Oct 05 - 2024
-
 - tensor
   - a tensor is a multi-dimensional array
   - how to slice a tensor
@@ -461,12 +460,20 @@ references
    
 
 ## 36, Oct 05 - 2024
-
 - keras
 - keras.layers receive a matrix and outputs a matrix
   - output = relu(dot(input, w) + b)
 
 ## 37, Oct  07 - 2024
-
 - ensemble
   - bagging
+
+## 38, Oct 08 - 2024
+- npl with ml
+  - bag of words
+ 
+  - test system
+      - quizz (replicate task on another dataset)
+      - mini-essay
+      - test: Kaggle 10%
+      - essay about the topic
