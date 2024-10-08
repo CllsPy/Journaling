@@ -478,5 +478,9 @@ references
       - test: Kaggle 10%
       - essay about the topic
 
+- c
+  - hello world
+
 ### references
 - [Training vs testing](https://www.youtube.com/watch?v=SEYAnnLazMU&list=PLD63A284B7615313A&index=5)
+- [CS50](https://www.youtube.com/watch?v=LfaMVlDaQ24&t=7550s)
