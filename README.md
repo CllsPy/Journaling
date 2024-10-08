@@ -477,3 +477,6 @@ references
       - mini-essay
       - test: Kaggle 10%
       - essay about the topic
+
+### references
+- [Training vs testing](https://www.youtube.com/watch?v=SEYAnnLazMU&list=PLD63A284B7615313A&index=5)
