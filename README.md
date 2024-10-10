@@ -484,3 +484,7 @@ references
 ### references
 - [Training vs testing](https://www.youtube.com/watch?v=SEYAnnLazMU&list=PLD63A284B7615313A&index=5)
 - [CS50](https://www.youtube.com/watch?v=LfaMVlDaQ24&t=7550s)
+
+## 39, Oct 09 - 2024
+
+- adversarial validation
