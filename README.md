@@ -495,5 +495,9 @@ references
   - advanced bagging
   - how to plot model predictions
 
+- random forest
+
+  ![image](https://github.com/user-attachments/assets/6a7218bb-b8ac-41b9-a0c7-c4f7d1d64a75)
+
 **references**
   - [bagging sklearn](https://inria.github.io/scikit-learn-mooc/python_scripts/ensemble_bagging.html)
