@@ -488,3 +488,12 @@ references
 ## 39, Oct 09 - 2024
 
 - adversarial validation
+
+## 40, Oct 11 - 2024
+
+- bagging
+  - advanced bagging
+  - how to plot model predictions
+
+** references**
+  - [bagging sklearn](https://inria.github.io/scikit-learn-mooc/python_scripts/ensemble_bagging.html)
