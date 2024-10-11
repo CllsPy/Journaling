@@ -495,5 +495,5 @@ references
   - advanced bagging
   - how to plot model predictions
 
-** references**
+**references**
   - [bagging sklearn](https://inria.github.io/scikit-learn-mooc/python_scripts/ensemble_bagging.html)
