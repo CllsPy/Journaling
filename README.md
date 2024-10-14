@@ -501,3 +501,10 @@ references
 
 **references**
   - [bagging sklearn](https://inria.github.io/scikit-learn-mooc/python_scripts/ensemble_bagging.html)
+
+
+## 41, Oct 14, 2024
+- how to use mlxtende for eda
+
+**references**
+- [mlxtende](https://rasbt.github.io/mlxtend/)
