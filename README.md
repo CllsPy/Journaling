@@ -508,3 +508,11 @@ references
 
 **references**
 - [mlxtende](https://rasbt.github.io/mlxtend/)
+
+## Day 42: Oct 14 - 2024
+
+- sklearn
+  - method get_params() to basEestimator
+
+**resources**
+- [sklearn baseEstimator](https://scikit-learn.org/1.5/modules/generated/sklearn.base.BaseEstimator.html)
