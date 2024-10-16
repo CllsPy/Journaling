@@ -513,6 +513,13 @@ references
 
 - sklearn
   - method get_params() to basEestimator
+ 
+- python
+- dunder methods
+    - __get_item__
+    - __len__
+- namedtuple
+  - Student = namedtuple('Student', ['name', 'age', 'DOB'])
 
 **resources**
 - [sklearn baseEstimator](https://scikit-learn.org/1.5/modules/generated/sklearn.base.BaseEstimator.html)
