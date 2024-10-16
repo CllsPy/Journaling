@@ -521,5 +521,8 @@ references
 - namedtuple
   - Student = namedtuple('Student', ['name', 'age', 'DOB'])
 
+- cs
+  - imperative  paradigms
+  - declarative paradigms
 **resources**
 - [sklearn baseEstimator](https://scikit-learn.org/1.5/modules/generated/sklearn.base.BaseEstimator.html)
