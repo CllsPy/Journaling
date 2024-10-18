@@ -532,7 +532,9 @@ references
 
 - numpy
   - `random.norm` - create a normal gaussian distribution
+  - `ndarray.flatten(order='C')` colapse the array to one dimenstion
  
 
 - references
   - https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
+  - https://numpy.org/doc/2.0/reference/generated/numpy.ndarray.flatten.html
