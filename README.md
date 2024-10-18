@@ -526,3 +526,13 @@ references
   - declarative paradigms
 **resources**
 - [sklearn baseEstimator](https://scikit-learn.org/1.5/modules/generated/sklearn.base.BaseEstimator.html)
+
+
+## Day 43: Oct 18 - 2024
+
+- numpy
+  - `random.norm` - create a normal gaussian distribution
+ 
+
+- references
+  - https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
