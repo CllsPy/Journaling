@@ -534,7 +534,10 @@ references
   - `random.norm` - create a normal gaussian distribution
   - `ndarray.flatten(order='C')` colapse the array to one dimenstion
  
+- sklearn
+- `inverse_transform`: remove transformation (e.g StandardScaler())
 
 - references
   - https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
   - https://numpy.org/doc/2.0/reference/generated/numpy.ndarray.flatten.html
+  - https://stackoverflow.com/questions/49885007/how-to-use-scikit-learn-inverse-transform-with-new-values
