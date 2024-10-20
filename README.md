@@ -541,3 +541,13 @@ references
   - https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html
   - https://numpy.org/doc/2.0/reference/generated/numpy.ndarray.flatten.html
   - https://stackoverflow.com/questions/49885007/how-to-use-scikit-learn-inverse-transform-with-new-values
+
+
+## Day 44: Oct 20 - 2024
+- ransac
+  - inliers
+  - MAD (mean abs desviation)
+ 
+
+- references
+  - [MAD](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread/a/mean-absolute-deviation-mad-review)
