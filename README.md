@@ -547,7 +547,8 @@ references
 - ransac
   - inliers
   - MAD (mean abs desviation)
- 
+
 
 - references
   - [MAD](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread/a/mean-absolute-deviation-mad-review)
+  - [RANSAC](https://en.wikipedia.org/wiki/Random_sample_consensus)
