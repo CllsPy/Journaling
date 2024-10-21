@@ -552,3 +552,9 @@ references
 - references
   - [MAD](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread/a/mean-absolute-deviation-mad-review)
   - [RANSAC](https://en.wikipedia.org/wiki/Random_sample_consensus)
+
+## Day 45: Oct 21 - 2024
+
+- numpy
+  - nump.max
+  - numpu.min
