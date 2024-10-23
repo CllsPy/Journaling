@@ -558,3 +558,22 @@ references
 - numpy
   - nump.max
   - numpu.min
+
+## Day 46: Oct 23, 2024
+
+- Learned how to build a running sum with python, for a leetcode problem.
+
+```python
+class Solution:
+    def runningSum(self, nums: List[int]) -> List[int]:
+        result = [nums[0]]
+
+        for i in range(1, len(nums), 1):
+            result.append(nums[i] + result[i-1])
+        
+        return result
+```
+
+Links
+
+- [Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
