@@ -577,3 +577,13 @@ class Solution:
 Links
 
 - [Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+
+## Day 47: Oct 23, 2024
+
+- Learned about Role Prompt, a Prompt Engineer technique
+  - Normal Prompt: what do you thinkg about skate board?
+  - Role Prompt: as I cat, what do you thing about skate board?
+
+Links
+- [Prompt Engineer](https://roadmap.sh/prompt-engineering)
+- [Learn Prompting](https://learnprompting.org/blog/2024/9/29/the_prompt_report)
