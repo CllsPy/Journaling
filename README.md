@@ -587,3 +587,7 @@ Links
 Links
 - [Prompt Engineer](https://roadmap.sh/prompt-engineering)
 - [Learn Prompting](https://learnprompting.org/blog/2024/9/29/the_prompt_report)
+
+## Day 48: Oct 27, 2024
+- Python is a scripting and programming language
+  - You can use Python like Java, C++ and others pragramming languages, because of the OOP principle and Python constructors.
