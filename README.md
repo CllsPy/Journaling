@@ -591,3 +591,20 @@ Links
 ## Day 48: Oct 27, 2024
 - Python is a scripting and programming language
   - You can use Python like Java, C++ and others pragramming languages, because of the OOP principle and Python constructors.
+
+- regulaziation
+  - We use Regularization when we need reduce complexity, in our case model complexity.
+  - You can divide regularization in two categories:
+    - explicity: adding new information to the loss function (as penalty)
+    - implicity: tecnhiques that reduce model capacity to learn noise like a more robust loss function to outliers, model combination to select the most pluasible answer (ensemble).
+
+- loss
+  - The loss function is the mesure we use to update our wights and bias.
+  - The loss function is used to measure the error in one pair (x, y) at time. The cost function on the other hand is used for calculate the overall error (based on all data points).
+ 
+
+Links
+- https://en.wikipedia.org/wiki/Regularization_(mathematics)
+- https://www.datacamp.com/tutorial/loss-function-in-machine-learning
+- https://stats.stackexchange.com/questions/359043/what-is-the-difference-between-a-loss-function-and-an-error-function
+- https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent
