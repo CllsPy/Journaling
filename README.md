@@ -601,9 +601,21 @@ Links
 - loss
   - The loss function is the mesure we use to update our wights and bias.
   - The loss function is used to measure the error in one pair (x, y) at time. The cost function on the other hand is used for calculate the overall error (based on all data points).
- 
 
-Links
+
+  ## Day 49: Oct 28, 2024
+  
+- l2 regularization
+  ![image](https://github.com/user-attachments/assets/1a0e599b-061a-4b61-8d49-f9aeeff2e4ba)
+
+  - what's regularization
+    - Is aditional information to adjust the loss.
+  
+  Links
+- https://developers.google.com/machine-learning/crash-course/overfitting/regularization
+- https://developers.google.com/machine-learning/crash-course/overfitting/model-complexity
+- https://en.wikipedia.org/wiki/Occam's_razor
+- https://developers.google.com/machine-learning/glossary#l2-regularization
 - https://en.wikipedia.org/wiki/Regularization_(mathematics)
 - https://www.datacamp.com/tutorial/loss-function-in-machine-learning
 - https://stats.stackexchange.com/questions/359043/what-is-the-difference-between-a-loss-function-and-an-error-function
