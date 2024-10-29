@@ -610,7 +610,13 @@ Links
 
   - what's regularization
     - Is aditional information to adjust the loss.
-  
+
+- huggingface
+  - to use hf models with the pipe api you need three elementos:
+    - model
+    - task
+    - pipe(content)
+
   Links
 - https://developers.google.com/machine-learning/crash-course/overfitting/regularization
 - https://developers.google.com/machine-learning/crash-course/overfitting/model-complexity
@@ -620,3 +626,5 @@ Links
 - https://www.datacamp.com/tutorial/loss-function-in-machine-learning
 - https://stats.stackexchange.com/questions/359043/what-is-the-difference-between-a-loss-function-and-an-error-function
 - https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent
+- https://huggingface.co/docs/transformers/main_classes/pipelines
+
