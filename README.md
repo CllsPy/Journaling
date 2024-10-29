@@ -617,6 +617,10 @@ Links
     - task
     - pipe(content)
 
+```python
+model = pipeline('summarization', model='bERT')
+model('text-content')
+```
   Links
 - https://developers.google.com/machine-learning/crash-course/overfitting/regularization
 - https://developers.google.com/machine-learning/crash-course/overfitting/model-complexity
