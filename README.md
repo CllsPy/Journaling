@@ -632,6 +632,6 @@ model('text-content')
 - https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent
 - https://huggingface.co/docs/transformers/main_classes/pipelines
 
-  ## Day 49: Oct 28, 2024
+  ## Day 50: Oct 31, 2024
 
   - learnt how to loop a nested list while i was doing leetcode
