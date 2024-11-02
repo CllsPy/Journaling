@@ -635,7 +635,9 @@ model('text-content')
   ## Day 50: Oct 31, 2024
 
   - learnt how to loop a nested list while i was doing leetcode
+  - understood the bayes' theorm statement
 
   Links
   - https://web.stanford.edu/class/cs224g/slides/Fulll%20Stack%20LLMs_%20Stanford%20University.pdf
   - https://fullstackdeeplearning.com/course/2022/lecture-1-course-vision-and-when-to-use-ml/
+  - [3B1B - Bayes' Theorem](3blue1brown.com/lessons/bayes-theorem) 
