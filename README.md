@@ -636,6 +636,12 @@ model('text-content')
 
   - learnt how to loop a nested list while i was doing leetcode
   - understood the bayes' theorm statement
+  - discovered what is spaCY and nltk
+
+  - huggingface
+    - how to use ```text2image``` model
+    - how to use langchain and huggingface
+    - how to use ```text2text``` model
 
   Links
   - https://web.stanford.edu/class/cs224g/slides/Fulll%20Stack%20LLMs_%20Stanford%20University.pdf
