@@ -648,3 +648,12 @@ model('text-content')
   - https://fullstackdeeplearning.com/course/2022/lecture-1-course-vision-and-when-to-use-ml/
   - [3B1B - Bayes' Theorem](3blue1brown.com/lessons/bayes-theorem)
   - https://roadmap.sh/prompt-engineering
+
+## Day 51: Nov 04, 2024
+
+- huggingface
+  - tasks
+  - pipeline
+    - text
+    - img2text
+  - transformers
