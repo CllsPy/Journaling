@@ -651,9 +651,10 @@ model('text-content')
 
 ## Day 51: Nov 04, 2024
 
-- huggingface
+- practice with huggingface apis
   - tasks
   - pipeline
     - text
     - img2text
   - transformers
+  - not confident about the audio task; fine-tune models.
