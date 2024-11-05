@@ -658,3 +658,22 @@ model('text-content')
     - img2text
   - transformers
   - not confident about the audio task; fine-tune models.
+
+## Day 52: Nov 05, 2024
+
+- learnt how to use gpu for hf models
+
+```python
+device = "cuda:0" if torch.cuda.is_available() else "gpu"
+model = pipeline("task", model="model_choice", device=device)
+```
+
+- how acess secret key on gcolabs
+
+```python
+from google.colabs import userdata
+import os
+
+sec_key = userdata.get("HF_TOKEN")
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = sec_key
+```
