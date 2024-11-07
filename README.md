@@ -684,3 +684,6 @@ os.environ["HUGGINGFACEHUB_API_TOKEN"] = sec_key
   - use to organize lists
   - sorted(value, key, reverse)
   - you need a lista, key and reverse are optional (key organize based on a personal funcion and reverse (invert the order))
+
+Links
+- https://www.w3schools.com/python/module_statistics.asp
