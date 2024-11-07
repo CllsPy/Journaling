@@ -677,3 +677,10 @@ import os
 sec_key = userdata.get("HF_TOKEN")
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = sec_key
 ```
+
+## Day 53: Nov 07, 2024
+
+- learned about sorted funciton in python
+  - use to organize lists
+  - sorted(value, key, reverse)
+  - you need a lista, key and reverse are optional (key organize based on a personal funcion and reverse (invert the order))
