@@ -687,3 +687,22 @@ os.environ["HUGGINGFACEHUB_API_TOKEN"] = sec_key
 
 Links
 - https://www.w3schools.com/python/module_statistics.asp
+
+## Day 54: Nov 09, 2024
+- learnt about typing hints: typing hits are just for documentation since python is a dimanic language
+- Weaks
+  - I had difficult to understand typing Lists.
+  - zip()
+
+```python
+l1 = [1, 2, 3]
+l2 = ['A', 'B', 'C']
+
+for j, k in zip(l1, l2):
+    print(f'zipped:{j, k}')
+
+```
+
+Links
+- https://www.youtube.com/watch?v=QORvB-_mbZ0
+- [How use typing for lists](https://youtu.be/QORvB-_mbZ0?si=ifsqaMHqwjeI3D5V&t=541)
