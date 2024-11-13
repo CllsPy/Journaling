@@ -709,7 +709,7 @@ Links
   
 
 
-## Day 55: Nov 09, 2024
+## Day 54: Nov 13, 2024
 - Build my first regression model with TF for get my FCC certification
 - Understand the difference between NN and DNN
 - Understand how to use in TF
