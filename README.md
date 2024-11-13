@@ -706,3 +706,16 @@ for j, k in zip(l1, l2):
 Links
 - https://www.youtube.com/watch?v=QORvB-_mbZ0
 - [How use typing for lists](https://youtu.be/QORvB-_mbZ0?si=ifsqaMHqwjeI3D5V&t=541)
+  
+
+
+## Day 55: Nov 09, 2024
+- Build my first regression model with TF for get my FCC certification
+- Understand the difference between NN and DNN
+- Understand how to use in TF
+  - Regularization
+  - Early_Stop
+
+
+Links
+- https://www.tensorfalow.org/tutorials/keras/regression#linear_regression_with_multiple_inputs
