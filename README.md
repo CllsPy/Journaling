@@ -707,8 +707,6 @@ Links
 - https://www.youtube.com/watch?v=QORvB-_mbZ0
 - [How use typing for lists](https://youtu.be/QORvB-_mbZ0?si=ifsqaMHqwjeI3D5V&t=541)
   
-
-
 ## Day 54: Nov 13, 2024
 - Build my first regression model with TF for get my FCC certification
 - Understand the difference between NN and DNN
@@ -719,3 +717,20 @@ Links
 
 Links
 - https://www.tensorfalow.org/tutorials/keras/regression#linear_regression_with_multiple_inputs
+
+
+## Day 55: Nov 16, 2024
+
+python
+- data structures
+  - Lists and methods
+  - list comprenhension
+ 
+```python
+[x+1 for x in [1, 2, 5]
+```
+
+  - Dict and methos
+  - Set and methods
+  - Collections
+    - namedtuple
