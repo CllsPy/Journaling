@@ -752,3 +752,25 @@ github
 pylint
 - how to use
 - what is pylint
+
+
+## Day 57: Nov 18, 2024
+
+Google Style Guide
+
+- import the entire module, not a specific action.
+	- good: import scripts
+	- bad: from scripts import abc
+
+
+ Streamlit
+   - How to use containers
+   - What's a placeholders
+
+Github
+- How use code-spaces
+- How to open and close a issue
+- How to create a new branch
+
+```bash
+git switch -b <branch>
