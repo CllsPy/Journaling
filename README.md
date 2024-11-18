@@ -734,3 +734,21 @@ python
   - Set and methods
   - Collections
     - namedtuple
+
+## Day 56: Nov 17, 2024
+
+streamlit
+- how to change theme
+  - config.toml
+- how to personalize your footer
+- how to remove streamlit default footer
+- how use gitpod.io to modify your code
+- why is st.sessions and how to use
+
+github
+- recorded how to merge brachs
+- recorded how to clone a repo
+
+pylint
+- how to use
+- what is pylint
