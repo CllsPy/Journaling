@@ -795,5 +795,8 @@ python
         └── util.py
 ```
 
+- if __name__ == '__main__' is used to control the behave of a script when other scripts call it or when we run directly.
+- If __name__ == '__main__' is userful when you need reuse the code e.g for testing.
+
 Links
 - https://iq-inc.com/importerror-attempted-relative-import/
