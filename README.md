@@ -777,3 +777,23 @@ git switch -b <branch>
 
 Links
 - https://www.datacamp.com/tutorial/git-switch-branch
+
+## Day 58: Nov 19, 2024
+
+python
+
+- pip install -U: U is a flag for upgrade
+- Project Structure
+
+```python
+
+└── src/
+    ├── main.py
+    └── utils/
+        ├── __init__.py
+        └── util.py
+
+````
+
+Links
+- https://iq-inc.com/importerror-attempted-relative-import/
