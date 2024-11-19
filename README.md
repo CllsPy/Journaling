@@ -774,6 +774,7 @@ Github
 
 ```bash
 git switch -b <branch>
+```
 
 Links
 - https://www.datacamp.com/tutorial/git-switch-branch
