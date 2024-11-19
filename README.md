@@ -792,8 +792,7 @@ python
     └── utils/
         ├── __init__.py
         └── util.py
-
-````
+```
 
 Links
 - https://iq-inc.com/importerror-attempted-relative-import/
