@@ -800,3 +800,13 @@ python
 
 Links
 - https://iq-inc.com/importerror-attempted-relative-import/
+
+## Day 59: Nov 20, 2024
+
+python
+- pip install -U: U is a flag for upgrade
+- Project Structure
+
+Links
+- https://superlearninglab.substack.com/p/how-to-learn-anything-with-ultra
+- https://iq-inc.com/importerror-attempted-relative-import/
