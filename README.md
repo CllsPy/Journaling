@@ -810,3 +810,19 @@ python
 Links
 - https://superlearninglab.substack.com/p/how-to-learn-anything-with-ultra
 - https://iq-inc.com/importerror-attempted-relative-import/
+
+## Day 60: Nov 21, 2024
+
+**Machine Learning**
+- There are three types of ML
+	- Supervised: has labels in it
+		 - Classification: predict a class (e.g rain/no-rain)
+		 - Regression: predict numerical value
+	- Unsupervised: not labels at all
+	- Reiforcement: model learn by trying
+
+- We apply ML when we want to find a g(x) that approximates f(x).
+
+
+Links
+- [Google for Devs](https://developers.google.com/machine-learning/intro-to-ml/what-is-ml)
