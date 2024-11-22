@@ -832,9 +832,10 @@ Links
 
 RFL
 - What's Q-Learning
-		- How to apply Q-Learning
+	- How to apply Q-Learning
+   
 - Wht's Openai Gym
-		- How to use Openai Gym on GColabs
+	- How to use Openai Gym on GColabs
 
   - [1](https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial)
   - [2](https://www.datacamp.com/tutorial/reinforcement-learning-python-introduction)
