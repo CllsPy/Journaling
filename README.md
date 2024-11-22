@@ -831,9 +831,9 @@ Links
 ## Day 61: Nov 22, 2024
 
 RFL
-	- What's Q-Learning
+- What's Q-Learning
 		- How to apply Q-Learning
-	- Wht's Openai Gym
+- Wht's Openai Gym
 		- How to use Openai Gym on GColabs
 
   - [1](https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial)
