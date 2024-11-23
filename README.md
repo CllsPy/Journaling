@@ -837,5 +837,11 @@ RFL
 - Wht's Openai Gym
 	- How to use Openai Gym on GColabs
 
-  - [1](https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial)
-  - [2](https://www.datacamp.com/tutorial/reinforcement-learning-python-introduction)
+  - [rfl datacamo q-learning](https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial)
+  - [rfl datacamp: what's rfl](https://www.datacamp.com/tutorial/reinforcement-learning-python-introduction)
+
+
+## Day 62: Nov 23, 2024
+
+streamlit
+- Learnt how to create pages and subpages
