@@ -845,3 +845,14 @@ RFL
 
 streamlit
 - Learnt how to create pages and subpages
+
+numpy
+- np.argsort organize a array by it's indice, lets say
+
+```python
+>> array = [3, 2, 1]
+>> np.argsort(array)
+```
+... [2, 1, 0]
+
+- genetic algorithm: works a natural selection, you compare one solutions with another solutions and choose a winner.
