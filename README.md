@@ -856,3 +856,8 @@ numpy
 ... [2, 1, 0]
 
 - genetic algorithm: works a natural selection, you compare one solutions with another solutions and choose a winner.
+
+Links
+
+- https://numpy.org/doc/stable/reference/generated/numpy.argsort.html
+- https://www.datacamp.com/tutorial/genetic-algorithm-python
