@@ -863,3 +863,12 @@ Links
 - https://www.datacamp.com/tutorial/genetic-algorithm-python
 - https://amberlemckee.weebly.com/data-projects--tutorials.html
 - https://www.youtube.com/@DigitalSreeni
+
+
+## Day 63: Nov 29, 2024
+
+spacy
+- how to apply basic text operations with spacy
+	- POS Tagging
+	- Tokenization
+	- Lemmatization
