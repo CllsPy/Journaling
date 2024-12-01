@@ -872,3 +872,10 @@ spacy
 	- POS Tagging
 	- Tokenization
 	- Lemmatization
+
+
+## Day 64: Dez 01, 2024
+
+nlu metrics
+- [Glue](https://gluebenchmark.com/leaderboard/)
+- [Superglue](super.gluebenchmark.coam)
