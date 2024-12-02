@@ -879,3 +879,17 @@ spacy
 nlu metrics
 - [Glue](https://gluebenchmark.com/leaderboard/)
 - [Superglue](super.gluebenchmark.coam)
+
+python
+- use if __name__ when you don't want execute from the module you are just importing.
+
+ml
+- conceps
+	- decision function
+	- net input
+	- mcp
+	- perceptron learning rule
+
+Links
+
+- https://www.alura.com.br/artigos/o-que-significa-if-name-main-no-python
