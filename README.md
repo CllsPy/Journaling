@@ -1,8 +1,3 @@
----
-title: "Today I Learned"
-draft: false
-author: Carlos L.
----
 
 # 🌟 **Today I Learned (TIL)**
 
