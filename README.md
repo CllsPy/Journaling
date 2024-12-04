@@ -893,3 +893,30 @@ ml
 Links
 
 - https://www.alura.com.br/artigos/o-que-significa-if-name-main-no-python
+
+
+
+## Day 64: Dez 03, 2024
+
+**Golang**
+- loops
+- func
+- var
+- :=
+- types (float32, float64, int, string)
+- build two functions to operate vectors
+
+**spacy**
+- review
+- pos_
+- tagging
+- lammanization
+- container
+- tokenization
+- children
+- parsing
+
+
+Links
+
+- [spacy course](https://course.spacy.io/pt/)
