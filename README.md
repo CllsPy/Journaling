@@ -938,3 +938,7 @@ Links
 - https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
 - https://www.youtube.com/watch?v=LfaMVlDaQ24&t=7733s
 - https://www.youtube.com/watch?v=3xaVX0cluDo&t=162s
+
+Reading List
+
+- [w2vec](https://arxiv.org/pdf/1301.3781)
