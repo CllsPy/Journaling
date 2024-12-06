@@ -915,3 +915,27 @@ Links
 Links
 
 - [spacy course](https://course.spacy.io/pt/)
+
+
+## Day 65: Dez 06, 2024
+
+**new**
+
+- start cs224n (stanford nlp_
+- start cs50 with Python
+
+**review**
+
+- topic modeling
+	- tf-idf
+	- bi-gram; tri-gram
+ 
+ - haddling-text
+	 - re.sub()
+	 - replace()
+
+Links
+
+- https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
+- https://www.youtube.com/watch?v=LfaMVlDaQ24&t=7733s
+- https://www.youtube.com/watch?v=3xaVX0cluDo&t=162s
