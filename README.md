@@ -1,5 +1,4 @@
-
-# 🌟 **Today I Learned (TIL)**
+# 🌟 **Study Report**
 
 ## Day 1: July 19, 2024
 
