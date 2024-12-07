@@ -955,3 +955,5 @@ Reading List
 Links
 
 - [Vector and matrix derivatives](https://www.youtube.com/watch?v=FCWrduAxf-Q&t=159s)
+- [ds basics](https://www.youtube.com/watch?v=hEQ6j0eRDtg&list=PLvcbYUQ5t0UG5v62E_QO7UihkfePakzNA)
+- [What Does the Gradient Vector Mean Intuitively?](https://www.youtube.com/watch?v=H1DJjyDFalw)
