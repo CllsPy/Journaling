@@ -942,3 +942,16 @@ Links
 Reading List
 
 - [w2vec](https://arxiv.org/pdf/1301.3781)
+
+
+## Day 66: Dez 07, 2024
+
+
+**cs229 - machine learning**
+
+- learnt about gradient and hessians
+- solve a problem from problem set 0
+
+Links
+
+- [Vector and matrix derivatives](https://www.youtube.com/watch?v=FCWrduAxf-Q&t=159s)
