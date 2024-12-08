@@ -972,3 +972,5 @@ links
 
 - [Conditional Probabilities, Clearly Explained!!!](https://www.youtube.com/watch?v=_IgyaD7vOOA)
 - [KhanAcademy Probability](https://en.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/conditional-probability2)
+- [Matrix derivatives cheat sheet](https://www.gatsby.ucl.ac.uk/teaching/courses/sntn/sntn-2017/resources/Matrix_derivatives_cribsheet.pdf)
+- [Cheat Sheet]
