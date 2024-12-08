@@ -957,3 +957,18 @@ Links
 - [Vector and matrix derivatives](https://www.youtube.com/watch?v=FCWrduAxf-Q&t=159s)
 - [ds basics](https://www.youtube.com/watch?v=hEQ6j0eRDtg&list=PLvcbYUQ5t0UG5v62E_QO7UihkfePakzNA)
 - [What Does the Gradient Vector Mean Intuitively?](https://www.youtube.com/watch?v=H1DJjyDFalw)
+
+
+## Day 67: Dez 08, 2024
+
+**cs229 - machine learning**
+
+- had to learn conditional probabiliy
+- learnt about word2vec prediction function
+- understand what is multivariate calculus
+
+
+links
+
+- [Conditional Probabilities, Clearly Explained!!!](https://www.youtube.com/watch?v=_IgyaD7vOOA)
+- [KhanAcademy Probability](https://en.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/conditional-probability2)
