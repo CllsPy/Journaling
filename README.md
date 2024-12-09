@@ -974,3 +974,22 @@ links
 - [KhanAcademy Probability](https://en.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/conditional-probability2)
 - [Matrix derivatives cheat sheet](https://www.gatsby.ucl.ac.uk/teaching/courses/sntn/sntn-2017/resources/Matrix_derivatives_cribsheet.pdf)
 - [Cheat Sheet]
+
+
+## Day 68: Dez 09, 2024
+
+**CS229**
+
+- Learnt about  Jθ
+- Learnt basic symbologie of the course
+	- x -> input
+	- m -> rows
+	- n -> columns
+	- y -> output
+	- (x, y) -> training exemples
+
+  **KhanAcademy**
+
+  - What's Gradient
+  - How Compute Gradient
+  - What is Mutivariable Calculus
