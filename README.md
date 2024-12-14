@@ -993,3 +993,15 @@ links
   - What's Gradient
   - How Compute Gradient
   - What is Mutivariable Calculus
+
+## Day 69: Dez 14, 2024
+
+**CS229**
+
+* the derivative of a function satys how a function is changing at that specific point.
+* ∇² it's called **Laplacian**
+	* We compute ∇², like that:
+		 * ∇f(x, y)
+		 * ∇(∇(f(x, y))
+		 * sum all results
+* ∇ of $x^{t}$ Ax if A = $A^{t}$ it's 2Ax
