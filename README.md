@@ -1015,3 +1015,5 @@ links
 
 I'll try finish each class, in a week (or less).
 
+- Cool Resources I Found Today
+- [Gradient Descent Visualizer](https://uclaacm.github.io/gradient-descent-visualiser/)
