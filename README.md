@@ -1005,3 +1005,13 @@ links
 		 * ∇(∇(f(x, y))
 		 * sum all results
 * ∇ of $x^{t}$ Ax if A = $A^{t}$ it's 2Ax
+
+## Day 70: Dez 16, 2024
+
+**CS229**
+
+- Find an userful roadmap to learn AI.
+- Learn how to derive J(w), the Loss-Function.
+
+I'll try finish each class, in a week (or less).
+
