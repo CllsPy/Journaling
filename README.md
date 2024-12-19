@@ -1017,3 +1017,10 @@ I'll try finish each class, in a week (or less).
 
 - Cool Resources I Found Today
 - [Gradient Descent Visualizer](https://uclaacm.github.io/gradient-descent-visualiser/)
+
+
+## Day 71: Dez 19, 2024
+
+**CS229**
+
+- We can compute the global minima in one single step, using normal equations. It just applies to Linear Regression.
