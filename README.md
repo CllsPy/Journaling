@@ -1024,3 +1024,8 @@ I'll try finish each class, in a week (or less).
 **CS229**
 
 - We can compute the global minima in one single step, using normal equations. It just applies to Linear Regression.
+- Reviewed application of Calculus and What Derivative means
+- Reviewed Gradient
+- Intro Multivariate Calculus
+- Start d), set problem 0
+- Look at set problem 1
