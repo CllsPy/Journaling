@@ -1029,3 +1029,17 @@ I'll try finish each class, in a week (or less).
 - Intro Multivariate Calculus
 - Start d), set problem 0
 - Look at set problem 1
+
+## Day 72: Dez 21, 2024
+
+Khan Academy
+- Finished Exercises
+	- Compute Gradient 4/5
+	- Visual Gradient 4/5
+
+ - Read half of [OLS](https://en.wikipedia.org/wiki/Ordinary_least_squares#:~:text=In%20statistics%2C%20ordinary%20least%20squares,of%20the%20squares%20of%20the) on Wikipedia
+
+-  I want to read about [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent) too.
+
+**CS229**
+	 - Review notes (anki web on notion)
