@@ -1043,3 +1043,11 @@ Khan Academy
 
 **CS229**
 	 - Review notes (anki web on notion)
+
+
+## Day 73: Dez 22, 2024
+
+Khan Academy
+- learn and compute diretional derivatives
+- diretional derivatives: compute a changing rate in a given input.
+- formula $\vec{w} \nabla F$
