@@ -1062,4 +1062,4 @@ Khan Academy
 - [ML | Locally weighted Linear Regression](https://www.geeksforgeeks.org/ml-locally-weighted-linear-regression/)
 
 **Ideia**
-	- Build a extension that sumarizes site content.
+- Build a extension that sumarizes site content.
