@@ -1048,15 +1048,17 @@ Khan Academy
 ## Day 73: Dez 22, 2024
 
 **Khan Academy**
-	- learn and compute diretional derivatives
-	- diretional derivatives: compute a changing rate in a given input.
-	- formula $\vec{w} \nabla F$
-	- failed at diretional derivative exercise
+
+- learn and compute diretional derivatives
+- diretional derivatives: compute a changing rate in a given input.
+- formula $\vec{w} \nabla F$
+- failed at diretional derivative exercise
 
 **CS229**
-	 - Learnt the difference between parametric and non-paramtric algoriths
+- Learnt the difference between parametric and non-paramtric algoriths
 
 **Futher Reading**
+
 - [ML | Locally weighted Linear Regression](https://www.geeksforgeeks.org/ml-locally-weighted-linear-regression/)
 
 **Ideia**
