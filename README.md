@@ -1069,6 +1069,8 @@ Khan Academy
 **CS229**
 - Learnt about 'Sigmoid Function' or 'Logistic Function'
 - Understood how to approach a classficiation binary problem using Logit
+- Start Newton's method
+- Learnt about Gradient Ascent ( aimes to fund the maximum value of the function)
 
 
 **Futher Reading**
