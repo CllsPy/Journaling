@@ -1063,3 +1063,13 @@ Khan Academy
 
 **Ideia**
 - Build a extension that sumarizes site content.
+
+## Day 74: Dez 27, 2024
+
+**CS229**
+- Learnt about 'Sigmoid Function' or 'Logistic Function'
+- Understood how to approach a classficiation binary problem using Logit
+
+
+**Futher Reading**
+- [Log Likelihood](https://en.wikipedia.org/wiki/Likelihood_function)
