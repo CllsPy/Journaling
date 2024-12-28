@@ -1082,4 +1082,4 @@ Khan Academy
 * Newton's method is more fast than Gradient but it requires more computacional resources.
 * Hessian Matrix Coud Be Defined as:
 
-$\frac {\nabla^{2}} {\partial}$
+$$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
