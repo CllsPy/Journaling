@@ -1084,4 +1084,6 @@ Khan Academy
 
 $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 
-I fineshed Lecture Three, I'll study more about **Multivariate Calculus**, since i'm stuck in problem set nº1.
+* I finished Lecture Three, I'll study more about **Multivariate Calculus**, since i'm stuck in problem set nº1.
+* I finished 1) from problem set 0.
+
