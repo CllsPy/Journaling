@@ -1083,3 +1083,5 @@ Khan Academy
 * Hessian Matrix Coud Be Defined as:
 
 $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
+
+I fineshed Lecture Three, I'll study more about **Multivariate Calculus**, since i'm stuck in problem set nº1.
