@@ -1075,3 +1075,11 @@ Khan Academy
 
 **Futher Reading**
 - [Log Likelihood](https://en.wikipedia.org/wiki/Likelihood_function)
+
+## Day 76: Dez 28, 2024
+
+**CS229**
+* Newton's method is more fast than Gradient but it requires more computacional resources.
+* Hessian Matrix Coud Be Defined as:
+
+$\frac {\nabla^{2}} {\partial}$
