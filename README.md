@@ -1076,7 +1076,7 @@ Khan Academy
 **Futher Reading**
 - [Log Likelihood](https://en.wikipedia.org/wiki/Likelihood_function)
 
-## Day 76: Dez 28, 2024
+## Day 75: Dez 28, 2024
 
 **CS229**
 * Newton's method is more fast than Gradient but it requires more computacional resources.
@@ -1087,3 +1087,24 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 * I finished Lecture Three, I'll study more about **Multivariate Calculus**, since i'm stuck in problem set nº1.
 * I finished 1) from problem set 0.
 
+
+## Day 76: Dez 29, 2024
+
+**CS229**
+
+- Start Lecture 4
+- Read Notes (Cap. 4)
+- Start Studying Algebra For Solve Problem Set 0
+	- Positive Definite Matrices
+	- Eigenvalues and Eigenvectors
+	- Cholesky Decomposition
+
+**Papers**
+- Finished Annotated Transformers (First Pass)
+- Started Second Pass
+- Learnt About CovNet, BitNet
+
+> While NNGPU, ByteNet focus on overcome Sequential Computing. The problem with Sequential Computing is that, more distance more cost. Transformers deal with that keep this distance constant.
+
+**Links**
+- [Annotated Transformers](https://nlp.seas.harvard.edu/annotated-transformer/)
