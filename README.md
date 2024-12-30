@@ -1115,3 +1115,8 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 
 - finished the Perceptron topic
 - start exponential family
+
+
+**Links**
+
+* [PDF](https://www.youtube.com/watch?v=QKA4HNEw3aY)
