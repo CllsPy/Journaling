@@ -1108,3 +1108,10 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 
 **Links**
 - [Annotated Transformers](https://nlp.seas.harvard.edu/annotated-transformer/)
+
+## Day 77: Dez 29, 2024
+
+**CS229**
+
+- finished the Perceptron topic
+- start exponential family
