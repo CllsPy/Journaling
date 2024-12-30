@@ -1115,7 +1115,9 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 
 - finished the Perceptron topic
 - start exponential family
-
+	- we can transform other PDF to Exponential Family. This is userful because we simplify analysis, modeling and reduce the computational cost for training data.
+- Saw Bernoulli Distribution
+- $b(y)exp(\eta T(y) - \alpha(\eta))$ -> PDF to Exponential Family
 
 **Links**
 
