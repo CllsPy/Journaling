@@ -1122,3 +1122,13 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 **Links**
 
 * [PDF](https://www.youtube.com/watch?v=QKA4HNEw3aY)
+
+# 2025
+
+## Day 78: Jan 02, 2025
+
+**CS229**
+
+- exponential family are useful because their have nice propreties
+	- mle with respect to $\eta is concave$
+	- to compute var and mean you need just differentiante.
