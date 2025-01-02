@@ -1134,7 +1134,7 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 	- to compute var and mean you need just differentiante.
 
 - In order to distiguised GLMs form Expoenential Family you need some assumptions:
-- $y | x  ; \theta $ ~ exponential family $(\eta)$
+- $y | x  ; \theta$ ~ exponential family $(\eta)$
 - $\eta = \Theta^{T}x$
 - Test Time: output $E[y|x;\theta]$
-	- this means that our $ h\theta(x)$ = $E[y|x;\theta]$
+	- this means that our $h\theta(x)$ = $E[y|x;\theta]$
