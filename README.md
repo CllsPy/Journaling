@@ -1138,3 +1138,13 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 - $\eta = \Theta^{T}x$
 - Test Time: output $E[y|x;\theta]$
 	- this means that our $h\theta(x)$ = $E[y|x;\theta]$
+
+
+
+## Day 79: Jan 03, 2025
+
+**CS229**
+
+* finished 2.a from problem set 0.
+* start GMLs (CS229)
+* every GLMs has the same update rule 
