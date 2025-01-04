@@ -1156,3 +1156,16 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
  [Dropout: A Simple Way to Prevent Neural Networks from Overfitting:](https://jmlr.org/papers/v15/srivastava14a.html)
 
 	Since the processo to train deep neural nets cost a lot and can be slower, isn't easy prevent overfitting by aggregating more predictons from anothers deep nns, so you can use dropout as a solution.
+
+
+## Day 80: Jan 04, 2025
+
+**CS229**
+
+* the type of distribution depends on your problem, for exemple:
+	* Regression you use $\mu$
+	* For Classficiation you use $\phi$
+
+Also, we can use Softmax classification for multiclass problems, since it applies cross-entropy minimization. It could use the GMLs approach or not.
+
+> Not that much animated latelly, but here is my little step for today :)
