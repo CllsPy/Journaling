@@ -1151,6 +1151,6 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 
 [Layer Normalization:](https://arxiv.org/pdf/1607.06450)
 
-	* We can use layer normalization to speed up deep learning training. This is specially efficient in RNNs.
+	We can use layer normalization to speed up deep learning training. This is specially efficient in RNNs.
 
  [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)
