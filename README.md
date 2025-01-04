@@ -1153,4 +1153,6 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 
 	We can use layer normalization to speed up deep learning training. This is specially efficient in RNNs.
 
- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)
+ [Dropout: A Simple Way to Prevent Neural Networks from Overfitting:](https://jmlr.org/papers/v15/srivastava14a.html)
+
+	Since the processo to train deep neural nets cost a lot and can be slower, isn't easy prevent overfitting by aggregating more predictons from anothers deep nns, so you can use dropout as a solution.
