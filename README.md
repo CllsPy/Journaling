@@ -1139,8 +1139,6 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 - Test Time: output $E[y|x;\theta]$
 	- this means that our $h\theta(x)$ = $E[y|x;\theta]$
 
-
-
 ## Day 79: Jan 03, 2025
 
 **CS229**
@@ -1148,3 +1146,10 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 * finished 2.a from problem set 0.
 * start GMLs (CS229)
 * every GLMs has the same update rule 
+
+**Papers I read Today**
+
+[Layer Normalization:](https://arxiv.org/pdf/1607.06450)
+	* We can use layer normalization to speed up deep learning training. This is specially efficient in RNNs.
+
+ [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)
