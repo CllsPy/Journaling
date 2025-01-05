@@ -1180,3 +1180,14 @@ Also, we can use Softmax classification for multiclass problems, since it applie
 * stuck in problem set 0, 2b
 
 > learnt that you use cross entropy like a loss function and apply gradient, this way you can adress multiclassficiation problems.
+
+## Day 82: Jan 05, 2025
+
+**CS229**
+
+* start lecture 05
+* understand the difference between discriminative and generative models
+* learnt that it's possible use naive bayes to build a spam filter
+
+**Vocab**
+* Central Limit Theorem: he sampling distribution of the mean will always be normally distributed, as long as the sample size is large enough.
