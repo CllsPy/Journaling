@@ -1169,3 +1169,14 @@ $$\frac {\nabla^{2}l} {\partial \Theta i, \Theta j}$$
 Also, we can use Softmax classification for multiclass problems, since it applies cross-entropy minimization. It could use the GMLs approach or not.
 
 > Not that much animated latelly, but here is my little step for today :)
+
+
+## Day 81: Jan 05, 2025
+
+**CS229**
+
+* finished lecture 04
+* updates notes
+* stuck in problem set 0, 2b
+
+> learnt that you use cross entropy like a loss function and apply gradient, this way you can adress multiclassficiation problems.
