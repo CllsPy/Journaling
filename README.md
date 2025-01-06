@@ -1199,16 +1199,21 @@ Also, we can use Softmax classification for multiclass problems, since it applie
 
 * start GDA (Gaussian Discriminative Analysis)
 * Learnt that Gaussian Distribution is Key for ML
+* Mean and Variance are basic and important concepts for ML
 
 Vocab
 
 * CLT: Assumption that the sample  is a normal distribution
 * Bayes Rule: how to compute an event considering that something already happend
 * Gaussian distribution: distribution in a form of bell curve
-
+* Joint Likehood: Probability Of Two Variables have the same space distribution
+* GDA model: Supervised model base on distributribution used for classification
 
 More
 
 * [Baye's Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
 * [Multivariate Normal Distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
 * [Data Camp: Guassian Distribution](https://www.datacamp.com/tutorial/gaussian-distribution)
+* [GDA Model](https://www.geeksforgeeks.org/gaussian-discriminant-analysis/)
+* [Joint Likehood](https://en.wikipedia.org/wiki/Joint_probability_distribution)
+
