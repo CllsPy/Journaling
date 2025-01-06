@@ -1191,3 +1191,24 @@ Also, we can use Softmax classification for multiclass problems, since it applie
 
 **Vocab**
 * Central Limit Theorem: he sampling distribution of the mean will always be normally distributed, as long as the sample size is large enough.
+
+
+## Day 83: Jan 06, 2025
+
+**CS229**
+
+* start GDA (Gaussian Discriminative Analysis)
+* Learnt that Gaussian Distribution is Key for ML
+
+Vocab
+
+* CLT: Assumption that the sample  is a normal distribution
+* Bayes Rule: how to compute an event considering that something already happend
+* Gaussian distribution: distribution in a form of bell curve
+
+
+More
+
+* [Baye's Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+* [Multivariate Normal Distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
+* [Data Camp: Guassian Distribution](https://www.datacamp.com/tutorial/gaussian-distribution)
