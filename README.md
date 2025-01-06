@@ -1200,8 +1200,9 @@ Also, we can use Softmax classification for multiclass problems, since it applie
 * start GDA (Gaussian Discriminative Analysis)
 * Learnt that Gaussian Distribution is Key for ML
 * Mean and Variance are basic and important concepts for ML
-
 * Ranking Matrix are important because we can use less data to learn.
+* Solve Problem Set 0, 2.b
+* Understand Rank why is usefull for ML but no that much Null.
 
 Vocab
 
