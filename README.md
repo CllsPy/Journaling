@@ -1208,6 +1208,7 @@ Vocab
 * Gaussian distribution: distribution in a form of bell curve
 * Joint Likehood: Probability Of Two Variables have the same space distribution
 * GDA model: Supervised model base on distributribution used for classification
+* Rank Of a Matrix: How many columns is a Linear Combination From The Previwes Column.
 
 More
 
@@ -1216,4 +1217,5 @@ More
 * [Data Camp: Guassian Distribution](https://www.datacamp.com/tutorial/gaussian-distribution)
 * [GDA Model](https://www.geeksforgeeks.org/gaussian-discriminant-analysis/)
 * [Joint Likehood](https://en.wikipedia.org/wiki/Joint_probability_distribution)
+* [Rank of a Matrix : Data Science Basics](https://www.youtube.com/watch?v=2ogdwpHD3V8)
 
