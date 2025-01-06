@@ -1201,6 +1201,8 @@ Also, we can use Softmax classification for multiclass problems, since it applie
 * Learnt that Gaussian Distribution is Key for ML
 * Mean and Variance are basic and important concepts for ML
 
+* Ranking Matrix are important because we can use less data to learn.
+
 Vocab
 
 * CLT: Assumption that the sample  is a normal distribution
