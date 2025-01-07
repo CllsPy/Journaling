@@ -1222,3 +1222,11 @@ More
 * [Joint Likehood](https://en.wikipedia.org/wiki/Joint_probability_distribution)
 * [Rank of a Matrix : Data Science Basics](https://www.youtube.com/watch?v=2ogdwpHD3V8)
 
+
+## Day 84: Jan 07, 2025
+
+**CS229**
+
+* Start Lecture 06
+* Learnt About Laplace Smoothing and how we can use to adress Naive Bayes limitation (occurance of zero)
+* Post Blog On Dio About Learn AI
