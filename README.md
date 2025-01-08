@@ -1231,7 +1231,10 @@ More
 * Learnt About Laplace Smoothing and how we can use to adress Naive Bayes limitation (occurance of zero)
 * Post Blog On Dio About Learn AI
 * Start SVM
+* Answer 2.c
+* Start Problem-Set0 Q3
 
+I'm watching [Eigenvalues & Eigenvectors : Data Science Basics](https://www.youtube.com/watch?v=glaiP222JWA&list=PLvcbYUQ5t0UG5v62E_QO7UihkfePakzNA&index=4) because isn't clear to my what Q3 wants.
 Notes
 
 * Naive Bayes has lower quality in accuracy than Logistic Regression but it's simple to implement and computaciolly more efficient
@@ -1244,6 +1247,7 @@ Vocab
 * Kernel: Function that manipulates data
 * Functional Margin: Model capacity of generalization
 * Geometric Margin: Distance Between training exemple and the decisions boudary.
+* Symetric Matrix: (A =  A^{T})
 
 More
 
