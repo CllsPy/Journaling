@@ -1237,6 +1237,7 @@ Notes
 * Naive Bayes has lower quality in accuracy than Logistic Regression but it's simple to implement and computaciolly more efficient
 * Start by implementing simple things
 * We can create your own models and publish a paper
+* SVM allows you create non-linear boudaries.
 
 Vocab
 
