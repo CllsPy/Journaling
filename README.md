@@ -1230,3 +1230,23 @@ More
 * Start Lecture 06
 * Learnt About Laplace Smoothing and how we can use to adress Naive Bayes limitation (occurance of zero)
 * Post Blog On Dio About Learn AI
+* Start SVM
+
+Notes
+
+* Naive Bayes has lower quality in accuracy than Logistic Regression but it's simple to implement and computaciolly more efficient
+* Start by implementing simple things
+* We can create your own models and publish a paper
+
+Vocab
+
+* Kernel: Function that manipulates data
+* Functional Margin: Model capacity of generalization
+* Geometric Margin: Distance Between training exemple and the decisions boudary.
+
+More
+
+* [Laplace Smoothing](https://towardsdatascience.com/laplace-smoothing-in-na%C3%AFve-bayes-algorithm-9c237a8bdece)
+* [SMV](9https://medium.com/@gokcenazakyol/machine-learning-support-vector-machines-svms-7bc389c877d8)
+* [SVM Kernels](https://medium.com/@abhishekjainindore24/svm-kernels-and-its-type-dfc3d5f2dcd8)
+* [SMV for Idiots](https://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
