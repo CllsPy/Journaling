@@ -1255,3 +1255,29 @@ More
 * [SMV](9https://medium.com/@gokcenazakyol/machine-learning-support-vector-machines-svms-7bc389c877d8)
 * [SVM Kernels](https://medium.com/@abhishekjainindore24/svm-kernels-and-its-type-dfc3d5f2dcd8)
 * [SMV for Idiots](https://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
+
+
+## Day 85: Jan 09, 2025
+
+CS229
+
+* Start lecture 07 - Kernels
+* Felt difficult to understand the class and the math is hard
+* Read the chapter from the main notes
+
+Vocab
+
+* Inner Product
+* Mercer's Theorem
+* Representer Theorem
+* Dual Optimization
+* Deductive Bias
+* Gaussian Kernel
+
+
+More
+
+* [Representer Theorem](https://www.geeksforgeeks.org/representer-theorem/)
+* [Gaussian Kernel]
+* [Mercer's Theorem](https://en.wikipedia.org/wiki/Mercer%27s_theorem)
+* [Kernel Trick](https://www.youtube.com/watch?v=wBVSbVktLIY)
