@@ -1281,3 +1281,14 @@ More
 * [Gaussian Kernel]
 * [Mercer's Theorem](https://en.wikipedia.org/wiki/Mercer%27s_theorem)
 * [Kernel Trick](https://www.youtube.com/watch?v=wBVSbVktLIY)
+
+
+## Day 85: Jan 13, 2025
+
+* Since not all data is always normal distributed we need more general linear models, that's why we use GLMs
+* GLMs have important caracteriscs that help us make predictions
+* If a class distribution can be written as:
+
+![image](https://github.com/user-attachments/assets/d33613ae-9ccc-4765-b527-9ce02dbf3e3b)
+
+It means that this classe belongs to the Exponential Family
