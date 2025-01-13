@@ -1283,7 +1283,7 @@ More
 * [Kernel Trick](https://www.youtube.com/watch?v=wBVSbVktLIY)
 
 
-## Day 85: Jan 13, 2025
+## Day 86: Jan 13, 2025
 
 * Since not all data is always normal distributed we need more general linear models, that's why we use GLMs
 * GLMs have important caracteriscs that help us make predictions
