@@ -1292,3 +1292,6 @@ More
 ![image](https://github.com/user-attachments/assets/d33613ae-9ccc-4765-b527-9ce02dbf3e3b)
 
 It means that this classe belongs to the Exponential Family
+
+* The exponential Family also has some interesting propreties, and using them we can build GLMs.
+* IN Neural Networks we use actionvation function to capture non-linear patterns.
