@@ -1295,3 +1295,8 @@ It means that this classe belongs to the Exponential Family
 
 * The exponential Family also has some interesting propreties, and using them we can build GLMs.
 * IN Neural Networks we use actionvation function to capture non-linear patterns.
+
+## Day 87: Jan 20, 2025
+
+Book: The Elegant Math Behinde Machine Learning
+* SVM separetes non-linear distributed data, by applying a technique called "Kernel Trick", which consist in increase the dimensionality of data and classify.
