@@ -1315,3 +1315,8 @@ input attributes of a problem
 - Representer Theorem: In computer science, this representation theorem is one of several results that show the minimizer of a fixed empirical risk value **?×(Finite Linear)** definition of a reproducing kernel Hilbert space.
 - Dual Optimization Problem: The duality principle says that the optimization can be viewed from 2 different perspectives.
 - Deductive Bias:  the set of assumptions that the learner uses to predict outputs of given inputs that it has not encountered.
+
+* Start Lec08
+* Bias and Variance is simple to understand but hard to master
+* High Bias = Underfitting, High Variance = Overfitting
+* One way to avoid overfitting and underfitting is regularization.
