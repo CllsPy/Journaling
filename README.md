@@ -1300,3 +1300,6 @@ It means that this classe belongs to the Exponential Family
 
 Book: The Elegant Math Behinde Machine Learning
 * SVM separetes non-linear distributed data, by applying a technique called "Kernel Trick", which consist in increase the dimensionality of data and classify.
+
+CS229
+* Since we can write the algorithm in terms of a inner product, you also, can apply the 'Kernel Trick' to it.
