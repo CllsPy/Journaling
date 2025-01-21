@@ -1301,5 +1301,17 @@ It means that this classe belongs to the Exponential Family
 Book: The Elegant Math Behinde Machine Learning
 * SVM separetes non-linear distributed data, by applying a technique called "Kernel Trick", which consist in increase the dimensionality of data and classify.
 
-CS229
+*CS229*
+
 * Since we can write the algorithm in terms of a inner product, you also, can apply the 'Kernel Trick' to it.
+
+*Vocab*
+
+- Attribues: we will call the “original” input value the
+input attributes of a problem
+- Features: when the original input is mapped to some new set of quantities φ(x)
+- Gaussian Kernel: A ***Gaussian Kernel*** refers to a mathematical function used to model local deformation in computer science.
+- Mercer’s Theorem: In [mathematics](https://en.wikipedia.org/wiki/Mathematics), specifically [functional analysis](https://en.wikipedia.org/wiki/Functional_analysis), **Mercer's theorem** is a representation of a symmetric [positive-definite](https://en.wikipedia.org/wiki/Definite_bilinear_form) function on a square as a sum of a convergent sequence of product functions.
+- Representer Theorem: In computer science, this representation theorem is one of several results that show the minimizer of a fixed empirical risk value **?×(Finite Linear)** definition of a reproducing kernel Hilbert space.
+- Dual Optimization Problem: The duality principle says that the optimization can be viewed from 2 different perspectives.
+- Deductive Bias:  the set of assumptions that the learner uses to predict outputs of given inputs that it has not encountered.
