@@ -1320,3 +1320,9 @@ input attributes of a problem
 * Bias and Variance is simple to understand but hard to master
 * High Bias = Underfitting, High Variance = Overfitting
 * One way to avoid overfitting and underfitting is regularization.
+
+## Day 88: Jan 22, 2025
+
+Reading list
+
+* [A training algorithm for Optimal Margin Classifiers](https://dl.acm.org/doi/pdf/10.1145/130385.130401)
