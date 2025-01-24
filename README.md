@@ -1329,3 +1329,9 @@ Reading list
 
 Neural Nets
 * The [Hopfiled NN](https://en.wikipedia.org/wiki/Hopfield_network) can store information and rocover it later when see something similar. It's a form of Neural Network.
+
+
+CS229
+
+* Regularization are rules you set to prevent overfitting
+* Scaling helps when you're applying regularization
