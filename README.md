@@ -1326,3 +1326,6 @@ input attributes of a problem
 Reading list
 
 * [A training algorithm for Optimal Margin Classifiers](https://dl.acm.org/doi/pdf/10.1145/130385.130401)
+
+Neural Nets
+* The [Hopfiled NN](https://en.wikipedia.org/wiki/Hopfield_network) can store information and rocover it later when see something similar. It's a form of Neural Network.
