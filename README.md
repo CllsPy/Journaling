@@ -1335,3 +1335,8 @@ CS229
 
 * Regularization are rules you set to prevent overfitting
 * Scaling helps when you're applying regularization
+
+## Day 89: Jan 31, 2025
+  
+* start a new challenger, fine-tuning bert for 30 days
+	* Day 01 [X]
