@@ -1339,4 +1339,4 @@ CS229
 ## Day 89: Jan 31, 2025
   
 * start a new challenger, fine-tuning bert for 30 days
-	* Day 01 [X]
+	* [X] Day 01
