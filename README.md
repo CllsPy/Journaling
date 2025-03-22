@@ -1340,3 +1340,10 @@ CS229
   
 * start a new challenger, fine-tuning bert for 30 days
 	* [X] Day 01
+
+
+## Day 90: Mar 22, 2025
+
+today i learnt about hoeff-inequality. it's a equation that says that, if you have more data, better is your model.
+![image](https://github.com/user-attachments/assets/5c6cef6f-6fca-410b-997e-5403dfb88306)
+
